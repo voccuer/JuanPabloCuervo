@@ -29,13 +29,5 @@ Scavix de [https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo:
 |  Conector USB WiFi  | 10 |
 |  Total  | 105  |
 ## Referencias
-
-
-// * Al menos dos niveles de títulos #
-// * Citas > 
-// * Enlaces ()[]
-// * Figuras externas por ejemplo de Wikipedia ![]()
-// * Tablas |--|--|
-// * Negrita y Cursiva Negrita y Cursiva
-// * Viñentas  de al menos dos niveles *
-// * Enumeraciones 1.
+https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/
+https://es.gizmodo.com/10-proyectos-de-raspberry-pi-ideales-para-principiantes-1791255833
