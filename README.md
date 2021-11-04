@@ -3,9 +3,13 @@
 ## Introducción
 La seguridad es muy importante en un hogar, una camara de vigilancia puede resultar de gran utilidad en entornos publicos, e incluso privados.
 ## Procedimiento
-El procedimiento del proyecto se podrá ver a continuación en el [siguiente link](https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/)
+El procedimiento del proyecto se podrá ver a continuación en el [siguiente link](https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/).
 ## Limitaciones del proyecto
-La alarma puede activarse sin causa alguna
+Los costos pueden elevarse
+> Scavix de [https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo
+> That's all: for about US$120 we have all the hardware we need to build this HD surveillance cam.
+El costo podría elevarse a *This text will be Helvetica*_464578,80 pesos_ 
+
 ## Referencias
 
 
