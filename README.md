@@ -1,7 +1,7 @@
 # TrabajosPythonn
 # Cámara de vigilancia
 [Cámara](https://content.instructables.com/ORIG/FEM/MVMR/HO7X6PPQ/FEMMVMRHO7X6PPQ.jpg?auto=webp&frame=1&fit=bounds&md=fd0e2d8cd125687fdcebdbe307aa4cca)
-![Camara Raspberri Pi](/Downloads/camara.jpg).
+![Camara Raspberri Pi](camara.jpg).
 ## Introducción
 La seguridad es muy importante en un hogar, una camara de vigilancia puede resultar de gran utilidad en entornos publicos, e incluso privados.
 ## Procedimiento
