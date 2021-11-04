@@ -21,19 +21,12 @@ El costo podría elevarse a ***464578,80 pesos***.>
 Material | Costo (US$)
 -------------------------------
 Raspberri pi modelo b | 40
--------------------------------
 Modulo de cámara | 29 
--------------------------------
 Alojamiento | 9
--------------------------------
 Fuente de voltaje | 10
--------------------------------
 Tarjeta SD | 7 
--------------------------------
 Conector USB WiFi | 10
--------------------------------
 Total | 105
--------------------------------
 ## Referencias
 
 
