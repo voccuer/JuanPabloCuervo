@@ -18,7 +18,10 @@ Los costos pueden elevarse
 > Scavix de [https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo
 > **That's all: for about US$120 we have all the hardware we need to build this HD surveillance cam.**
 El costo podría elevarse a ***464578,80 pesos***.
-
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 ## Referencias
 
 
