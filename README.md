@@ -20,7 +20,7 @@ Los costos pueden elevarse
 El costo podría elevarse a ***464578,80 pesos***.>
 
 |  Material | Costo (US$)|
--------------------------------
+| ---  | --- |
 |  Raspberri pi modelo b  | 40  |
 |  Modulo de cámara  | 29  |
 |  Alojamiento  | 9  |
@@ -28,6 +28,11 @@ El costo podría elevarse a ***464578,80 pesos***.>
 |  Tarjeta SD  | 7 |
 |  Conector USB WiFi  | 10 |
 |  Total  | 105  |
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
 ## Referencias
 
 
