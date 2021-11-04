@@ -17,7 +17,7 @@ El procedimiento del proyecto se podrá ver a continuación en el [siguiente lin
 Los costos pueden elevarse
 Scavix de [https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo:
 > **That's all: for about US$120 we have all the hardware we need to build this HD surveillance cam.**
->  **eso es todo: por alrededor de ***464578,80 pesos*** tenemos todo el hardware que necesitamos para construir esta cámara de vigilancia HD.**
+> **eso es todo: por alrededor de ***464578,80 pesos*** tenemos todo el hardware que necesitamos para construir esta cámara de vigilancia HD.**
 
 |  Material | Costo (US$)|
 | ---  | --- |
