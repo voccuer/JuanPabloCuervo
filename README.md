@@ -15,7 +15,7 @@ La seguridad es muy importante en un hogar, una camara de vigilancia puede resul
 El procedimiento del proyecto se podrá ver a continuación en el [siguiente link](https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/).
 ## Limitaciones del proyecto
 Los costos pueden elevarse
-Scavix de [https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo:
+Scavix de[https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo:
 > **That's all: for about US$120 we have all the hardware we need to build this HD surveillance cam.**
 > > **Eso es todo: por alrededor de ***464578,80 pesos*** tenemos todo el hardware que necesitamos para construir esta cámara de vigilancia HD.**
 
@@ -31,3 +31,4 @@ Scavix de [https://www.scavix.com/en/](Scavix Software GmbH & Co.) dijo:
 ## Referencias
 * https://www.instructables.com/Raspberry-Pi-as-low-cost-HD-surveillance-camera/
 * https://es.gizmodo.com/10-proyectos-de-raspberry-pi-ideales-para-principiantes-1791255833
+* https://guides.github.com/features/mastering-markdown/
