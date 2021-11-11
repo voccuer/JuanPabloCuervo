@@ -1,4 +1,4 @@
-# TrabajosPythonn
+# Juan Pablo Cuervo
 # Cámara de vigilancia
 ![Camara Raspberri Pi](camara.jpg).
 >[Cámara](https://content.instructables.com/ORIG/FEM/MVMR/HO7X6PPQ/FEMMVMRHO7X6PPQ.jpg?auto=webp&frame=1&fit=bounds&md=fd0e2d8cd125687fdcebdbe307aa4cca)
